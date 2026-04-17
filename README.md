@@ -42,7 +42,9 @@ The dashboard provides actionable insights to help organizations improve decisio
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]Screenshot 2026-04-16 220557.png
+Employee-Attrition-Analysis-Dashboard-SQL-Power-BI-DAX-
+/Screenshot 2026-04-16 220557.png
+
 
 ---
 
