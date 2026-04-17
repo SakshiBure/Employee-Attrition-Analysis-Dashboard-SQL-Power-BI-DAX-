@@ -42,7 +42,7 @@ The dashboard provides actionable insights to help organizations improve decisio
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](add-your-image-path-here)
+![Dashboard Screenshot]Screenshot 2026-04-16 220557.png
 
 ---
 
